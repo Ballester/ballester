@@ -4,6 +4,13 @@ I'm currently a data scientist at StepFunction and a PhD candidate at McMaster U
 
 In the public repositories you will find the code to reproduce some of my papers.
 
+For a full list of my publications:
+https://scholar.google.com/citations?user=SYvr5bcAAAAJ&hl
+
+You can also find me on LinkedIn:
+https://www.linkedin.com/in/plballester/
+
+
 <!--
 **Ballester/ballester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
