@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently a data scientist at StepFunction.
+In the public repositories you will find the code to reproduce some of my papers.
+
 <!--
 **Ballester/ballester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
