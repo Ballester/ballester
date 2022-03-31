@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm currently a data scientist at StepFunction.
+I'm currently a data scientist at StepFunction and a PhD candidate at McMaster University.
+
 In the public repositories you will find the code to reproduce some of my papers.
 
 <!--
