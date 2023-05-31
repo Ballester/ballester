@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a data scientist at UXCam.
+I'm currently a machine learning specialist at The Hospital for Sick Children (SickKids).
 
 In the public repositories you will find the code to reproduce some of my papers.
 
